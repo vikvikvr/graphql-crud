@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "u_1",
+      "firstname": "Nicholas",
+      "lastname": "Gulgowski",
+      "username": "nick.ski"
+    },
+    {
+      "id": "u_2",
+      "firstname": "Dexter",
+      "lastname": "Parker",
+      "username": "dex.park"
+    },
+    {
+      "id": "u_3",
+      "firstname": "Nina",
+      "lastname": "Feest",
+      "username": "nina.fe"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p_1",
+      "title": "Winter is here",
+      "content": "All ready for Christmas.",
+      "author": "u_1"
+    },
+    {
+      "id": "p_2",
+      "title": "Summer has come",
+      "content": "Time to go swimming.",
+      "author": "u_1"
+    },
+    {
+      "id": "p_3",
+      "title": "Fall is upon us",
+      "content": "Leaves are falling.",
+      "author": "u_2"
+    }
+  ]
+}
