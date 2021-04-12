@@ -6,6 +6,6 @@ const app = express();
 
 app.use('/graphql', graphqlHTTP({ graphiql: true, schema }));
 
-app.listen(5000, () => {
-  console.log('visit localhost:5000/graphql');
+app.listen(process.env.PORT, () => {
+  console.log('visit /graphql');
 });
