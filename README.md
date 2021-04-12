@@ -4,7 +4,11 @@ Simple [express](https://www.npmjs.com/package/express) server that implements C
 
 ### Try it out
 
+<<<<<<< HEAD
 App is live on [Heroku](https://vikvikvr-graphql-crud.herokuapp.com/graphql).
+=======
+App is live on [Heroku]([Heroku](https://vikvikvr-graphql-crud.herokuapp.com/graphql)).
+>>>>>>> fb5a4a49fd0dda46e93cb8c67aff88b4395bed1c
 
 
 ### Local usage
