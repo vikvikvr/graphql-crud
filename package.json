@@ -4,7 +4,8 @@
   "description": "Simple express server that implements CRUD operations on a graphQL endpoint.",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "keywords": [
     "express",
