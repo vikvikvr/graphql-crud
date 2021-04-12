@@ -2,8 +2,12 @@
 
 Simple [express](https://www.npmjs.com/package/express) server that implements CRUD operations on a [graphQL](https://graphql.org/) endpoint. A non-persistent JSON database is used for mock data.
 
+### Try it out
 
-### Usage
+App is live on [Heroku]([Heroku](https://vikvikvr-graphql-crud.herokuapp.com/graphql)).
+
+
+### Local usage
 
 ```bash
 git clone https://github.com/vikvikvr/graphql-crud.git
@@ -13,7 +17,6 @@ npm start
 ```
 
 Now open the browser and visit `http://localhost:5000/graphql` to start interacting with [GraphiQL](https://github.com/graphql/graphiql).
-
 
 
 ### API
