@@ -6,7 +6,6 @@ Simple [express](https://www.npmjs.com/package/express) server that implements C
 
 App is live on [Heroku](https://vikvikvr-graphql-crud.herokuapp.com/graphql).
 
-
 ### Local usage
 
 ```bash
